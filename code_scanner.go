@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"code.hq.twilio.com/skantorowicz/code_scanner/scanner_sinatra_params"
+	"scanner_sinatra_params"
 )
 
 func main() {
