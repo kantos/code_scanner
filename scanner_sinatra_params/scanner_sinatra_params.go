@@ -195,4 +195,4 @@ func (t *thing) Apply(r *fsm.Ruleset) *fsm.Machine {
 }
 
 //check log lines don't include pii, phone, app name, email...
-//check mvargas is not in any file
+//check ex-employees is not in any file
