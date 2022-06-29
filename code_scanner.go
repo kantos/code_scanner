@@ -11,7 +11,7 @@ import (
 )
 
 func main() {
-	dir := "/Users/skantorowicz/Documents/authy-code/"
+	dir := "/"
 	//subDirToSkip := "skip" // dir/to/walk/skip
 	violations := 0
 
